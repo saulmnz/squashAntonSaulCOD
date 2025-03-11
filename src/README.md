@@ -7,4 +7,7 @@ Hola segundo commit
 # Crea la rama de colaborador
 git checkout -b colaborador
 # commit a 
+git commit -a -m "A"
+# commit B
+git commit -a -m "B"
 ```
