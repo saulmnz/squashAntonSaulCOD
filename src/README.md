@@ -2,6 +2,7 @@ Hola primer commit
 
 Hola segundo commit
 
+<<<<<<< HEAD
 # commits de lider
 git checkout -b "nombre de la rama"
 
@@ -14,6 +15,8 @@ Mas commits rama lider 2
 git commit -a -m "nombre del commit"
 Muchos mas commits lider 3
 
+=======
+>>>>>>> master
 ## Comandos colaborador 
 ```bash
 # Crea la rama de colaborador
